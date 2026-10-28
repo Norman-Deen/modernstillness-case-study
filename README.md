@@ -1,5 +1,9 @@
 # ModernStillness — Architectural Atmosphere & Interactive Product Storytelling
 
+**Approximately 0.5 seconds to initial opening — a standout feature of ModernStillness.**
+
+*Based on the author's recent measurements. Initial opening is distinct from full scene readiness; results vary with device, connection and cache.*
+
 [**Explore the live experience →**](https://modernstillness.nourtin.com/) · [Nour Altinawi / Nourtin](https://nourtin.com/)
 
 An interactive terrace experience combining **architectural atmosphere, cinematic camera movement and product exploration** in the browser.
@@ -100,6 +104,8 @@ The viewer also offers fullscreen where supported and requests landscape orienta
 *Mobile captures use browser viewport emulation. They demonstrate the responsive layout, not physical-phone performance.*
 
 ## Experience quality
+
+Fast initial opening is a central focus of the project. The author reports approximately **0.5 seconds** in recent measurements of the opening stage. This observation describes the initial opening, not completion of all 3D assets or readiness for every interaction, and is not a cross-device benchmark.
 
 The startup separates the opening interface and movie readiness from preparation of the interactive scene and later effects. Scene rendering pauses behind the film and when the page is hidden. Optional content can fail without making the prepared core scene unusable.
 
