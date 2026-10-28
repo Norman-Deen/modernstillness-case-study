@@ -1,6 +1,8 @@
 # ModernStillness — Architectural Atmosphere & Interactive Product Storytelling
 
-**Approximately 0.5 seconds to initial opening — a standout feature of ModernStillness.**
+### $\color{red}\mathbf{0.5\ seconds}$
+
+**Approximately half a second to initial opening — a standout feature of ModernStillness.**
 
 *Based on the author's recent measurements. Initial opening is distinct from full scene readiness; results vary with device, connection and cache.*
 
